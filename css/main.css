@@ -1,0 +1,28 @@
+body
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    color: white;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 35%, rgba(0,0,0,1) 100%);
+}
+
+img 
+{
+    display: block;
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    box-shadow: 5px 10px 5px grey;
+}
+
+.darkcontent
+{
+    border-radius: 25px;
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+}
